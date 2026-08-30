@@ -9,7 +9,7 @@ index.html              → halaman utama
 style.css                → semua styling
 script.js                → logika kalkulator, kurs otomatis, form order
 google-apps-script.gs    → kode untuk dipasang di Google Apps Script (pencatat ke Sheets)
-assets/logo.png          → logo
+./logo.png          → logo
 ```
 
 ## 1. Sebelum diunggah — wajib diisi
