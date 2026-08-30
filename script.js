@@ -23,8 +23,8 @@
    rekening dengan kode pesanan di spreadsheet sebelum memproses barang.
 ===================================================================== */
 
-const BCA_ACCOUNT_NUMBER = "0000000000"; // TODO: ganti dengan nomor rekening BCA-mu
-const BCA_ACCOUNT_NAME = "NAMA PEMILIK REKENING"; // TODO: ganti dengan nama sesuai buku tabungan
+const BCA_ACCOUNT_NUMBER = "1411210001"; // TODO: ganti dengan nomor rekening BCA-mu
+const BCA_ACCOUNT_NAME = "FEDRO ANDREANTO"; // TODO: ganti dengan nama sesuai buku tabungan
 
 const SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbx81OFlFpL6FW5YZ58VPENGYiN82z6nxbOw5PZdrzpchnyVvKz2tjS2Xg7G6XO9mhGvUw/exec";
 
