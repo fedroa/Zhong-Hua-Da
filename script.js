@@ -26,7 +26,7 @@
 const BCA_ACCOUNT_NUMBER = "1411210001"; // TODO: ganti dengan nomor rekening BCA-mu
 const BCA_ACCOUNT_NAME = "FEDRO ANDREANTO"; // TODO: ganti dengan nama sesuai buku tabungan
 
-const SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbx81OFlFpL6FW5YZ58VPENGYiN82z6nxbOw5PZdrzpchnyVvKz2tjS2Xg7G6XO9mhGvUw/exec";
+const SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbzwYnDd-H2GJqfJD5WYHmkKBPxaYhN7KNfjh1v3snPDsoQxMUY9j9iasQsU9L5RutNx/exec";
 
 
 const ADMIN_SETTINGS = {
