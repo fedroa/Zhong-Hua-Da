@@ -20,9 +20,9 @@
    sebelum membuat invoice final.
 ===================================================================== */
 
-const ADMIN_WA = "6281234567890";
+const ADMIN_WA = "8615215692050";
 
-const SHEET_WEBHOOK_URL = ""; // isi dengan URL Web App dari Google Apps Script
+const SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbx81OFlFpL6FW5YZ58VPENGYiN82z6nxbOw5PZdrzpchnyVvKz2tjS2Xg7G6XO9mhGvUw/exec"; // isi dengan URL Web App dari Google Apps Script
 
 const ADMIN_SETTINGS = {
   kursMarginPerYuan: 50, // Rp ditambahkan ke kurs pasar acuan → mendekati kurs jual BCA
